@@ -1,6 +1,6 @@
 {
   "name": "simple-letter-can",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a simple letter template",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,8 @@
     "url": "git+ssh://git@github.com/wwwy3y3/simple-letter-can.git"
   },
   "keywords": [
-    "canner-can"
+    "canner-can",
+    "beta"
   ],
   "author": "wwwy3y3",
   "license": "MIT",
